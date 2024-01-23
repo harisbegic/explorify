@@ -1,5 +1,7 @@
 <p align="center">Explorify: Unleashing the Power of Shared Hobbies</p>
 
+<i>Infomatrix Romania (International Science Fair 2018)</i>
+
 <b>Introduction</b>
 
 In the realm of success stories, it's fascinating to observe that many of the most valuable companies and wealthiest individuals began their journeys as mere hobbies. This truth extends beyond the business world; even renowned musicians, such as Tool's guitarist Adam Jones, have emphasized that fame and fortune were not the primary drivers. Instead, they found fulfillment in the sheer joy of creating and playing music. The essence lies in the passion for one's craft, where monetary gains take a back seat.
